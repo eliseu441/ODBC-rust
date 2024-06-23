@@ -1,0 +1,3 @@
+para rodar a query execute cargo build e cargo run,
+em seguida execute a query como o exemplo:
+SELECT * FROM TBF_CLIENTS
